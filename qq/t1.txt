@@ -84,6 +84,8 @@ CHC-动作电影,http://itv.iptv1688.top:2016/itv.php?id=CHC动作电影
 武搏世界,http://itv.iptv1688.top:2016/itv.php?id=武搏世界
 中国功夫,http://itv.iptv1688.top:2016/itv.php?id=中国功夫
 
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+
 CCTV-1,http://107.174.52.32/itv.php?id=CCTV1
 CCTV-2,http://107.174.52.32/itv.php?id=CCTV2
 CCTV-3,http://107.174.52.32/itv.php?id=CCTV3
