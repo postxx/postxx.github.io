@@ -84,6 +84,14 @@ CHC-动作电影,http://itv.iptv1688.top:2016/itv.php?id=CHC动作电影
 武搏世界,http://itv.iptv1688.top:2016/itv.php?id=武搏世界
 中国功夫,http://itv.iptv1688.top:2016/itv.php?id=中国功夫
 
+
+凤凰中文,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
+凤凰卫视,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86
+凤凰资讯,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
+凤凰资讯台,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0
+凤凰资讯高清,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E9%AB%98%E6%B8%85
+凤凰香港,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
+
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
 翡翠台,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
